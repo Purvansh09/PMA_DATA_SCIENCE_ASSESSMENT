@@ -118,7 +118,7 @@ PMA/
 
 ## 🎥 Demo Video
 
-> [Link to demo video]
+> https://www.loom.com/share/c402a1d1e00240c0a35c02ec338ebb67
 
 ---
 
